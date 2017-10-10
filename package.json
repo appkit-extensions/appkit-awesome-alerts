@@ -1,0 +1,26 @@
+{
+  "name": "appkit-awesome-alerts",
+  "version": "1.0.0",
+  "description": "React Native Awesome Alerts for Appkit",
+  "scripts": {},
+  "keywords": [],
+  "repository": "empty",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-awesome-alerts": "^1.0.3"
+  },
+  "engines": {
+    "appkit": "^1.0.0"
+  },
+  "appkit": {
+    "modules": [],
+    "components": [
+      {
+        "name": "AwesomeAlert",
+        "script": "index.js"
+      }
+    ],
+    "libs": []
+  }
+}
